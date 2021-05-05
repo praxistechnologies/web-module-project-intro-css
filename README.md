@@ -17,7 +17,7 @@ The styles in your [design file](/design/desktop.jpg) include bright colors and 
 
 ## Instructions
 
-### Task 1: Set Up The Project With Git
+### Task 1: Set Up The Project With Git - DONE
 
 Follow these steps to set up and work on your project:
 
@@ -26,8 +26,8 @@ Follow these steps to set up and work on your project:
 - [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
 - [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 - [ ] Push commits: git push -u origin `<firstName-lastName>`.
-
-### Task 2: Minimum Viable Product
+ 
+### Task 2: Minimum Viable Product - DONE
 
 Once your repository is set up, practice what you learned today to style the site according to the given design. Your complete project should look similar to the desktop image. You should take the following actions, at a minimum:
 
@@ -57,9 +57,9 @@ Once your repository is set up, practice what you learned today to style the sit
 
 The following goals are designed to stretch your knowledge and may require additional research beyond what was learned in class today.
 
-- [ ] Add CSS animations (hover, mouseover, etc.)
+- [ ] Add CSS animations (hover, mouseover, etc.) - DONE
 - [ ] Design and execute your own pages for `Plan your Visit`, `Learn About the Park`, or `Get Involved`
-- [ ] Use [favicon.io](https://favicon.io/favicon-converter/) to convert the campfire and RV images to real favicons and use them in your project
+- [ ] Use [favicon.io](https://favicon.io/favicon-converter/) to convert the campfire and RV images to real favicons and use them in your project - DONE
 - [ ] Host your website on Netlify.com
 
 ## Resources
